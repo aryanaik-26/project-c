@@ -1,0 +1,26 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+hostel_management
+hostel_management.exe
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - uncomment if you don't want to track data)
+# leave_records.txt
+
